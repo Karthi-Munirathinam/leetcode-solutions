@@ -6,7 +6,7 @@ A comprehensive collection of LeetCode problem solutions implemented in **Python
 
 Each problem is organized in its own folder with the following naming convention:
 
-```
+```arduino
 problem-number. problem-name/
 ├── problem_name.py
 ├── problem_name.js
@@ -16,7 +16,7 @@ problem-number. problem-name/
 
 ### Example
 
-```
+```arduino
 1. Two Sum/
 ├── two_sum.py
 ├── two_sum.js
@@ -60,19 +60,20 @@ tsc two_sum.ts && node two_sum.js
 | # | Problem | Difficulty | Python | JavaScript | TypeScript |
 |---|---------|------------|--------|------------|------------|
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | ✅ | ✅ | ✅ |
+| 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | Easy | ✅ | ✅ | ✅ |
 | ... | ... | ... | ... | ... | ... |
 
-**Total Solved:** 0/3000+
+**Total Solved:** 2/3000+
 
 **By Difficulty:**
 
-- 🟢 Easy: 1
+- 🟢 Easy: 2
 - 🟡 Medium: 0
 - 🔴 Hard: 0
 
 **By Category:**
 
-- Array: 1
+- Array: 2
 - String: 0
 - Dynamic Programming: 0
 - Tree: 0
@@ -164,6 +165,7 @@ console.log(problemMethod()); // Expected:
 ### Arrays
 
 - [1. Two Sum](./1.%20Two%20Sum/)
+- [1929. Concatenation of Array](./1929.%20Concatenation%20of%20Array/)
 
 ## 🎯 Coding Patterns
 
